@@ -1,0 +1,475 @@
+[ {
+  "_id": {
+    "$oid": "5ffb160d9dc37b044c787da9"
+  },
+  "title": "RUDY'S DIRTY VEGAN ISLINGTON",
+  "client": "Rudy's Dirty Vegan Ltd",
+  "location": "Islington, London",
+  "surface": 150,
+  "website": "rudysvegan.com",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design - Construction",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161029070149706 (1).jpg",
+  "__v": 0,
+  "s1": "rudy5.jpg",
+  "s2": "rudy2.jpg",
+  "s3": "rudy3.jpg",
+  "s4": "rudy4.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb1e8e4c09b80627277fe1"
+  },
+  "title": "CHESHUNT HOUSE",
+  "client": "Private Client",
+  "location": "Stratford, London",
+  "surface": 255,
+  "website": "...",
+  "sector": "Residantial-Home",
+  "work": "Interior Design - Construction",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "161029287802406.jpg",
+  "__v": 0,
+  "s1": "home1.jpg",
+  "s2": "home2.jpg",
+  "s3": "home3.jpg",
+  "s4": "home5.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb062a9dc37b044c787d9f"
+  },
+  "title": "PHILLIPPE CONTICINI",
+  "client": "Phillipe Conticini UK",
+  "location": "Camden Market",
+  "surface": 112,
+  "website": "philippeconticini.fr/",
+  "sector": "Choose...",
+  "work": "Interior Design ",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "16102866348281 (1).jpg",
+  "__v": 0,
+  "s1": "philip2.jpg",
+  "s2": "philip3.jpg",
+  "s3": "philip4.jpg",
+  "s4": "philip5.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb0e219dc37b044c787da6"
+  },
+  "title": "KING'S PIDE",
+  "client": "King's Pide",
+  "location": "Kingsland, London",
+  "surface": 35,
+  "website": "...",
+  "sector": "Takeaway",
+  "work": "Interior Design ",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161028867383508_FACADE.jpg",
+  "__v": 0,
+  "s1": "king2.jpg",
+  "s2": "king3.jpg",
+  "s3": "king4.jpg",
+  "s4": "king5.jpg"
+},{
+  "_id": {
+    "$oid": "5ff9a8d940b79807a8f64453"
+  },
+  "title": "FISH CLOUD",
+  "client": "FISH CLOUD",
+  "location": "Broadway Market",
+  "surface": 25,
+  "website": "...",
+  "sector": "Takeaway",
+  "work": "Interior Design ",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "161019720943003.jpg",
+  "__v": 0,
+  "s1": "fish1.jpg",
+  "s2": "fish2.jpg",
+  "s3": "fish3.jpg",
+  "s4": "fish4.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb087e9dc37b044c787da2"
+  },
+  "title": "OMAN DESERT CAMP",
+  "client": "Salman Al Hajri",
+  "location": "Oman",
+  "surface": 1500,
+  "website": "...",
+  "sector": "Commercial",
+  "work": "Interior Design ",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610287230337umman1.jpg",
+  "__v": 0,
+  "s1": "umman2.jpg",
+  "s2": "umman3.webp",
+  "s3": "umman4.webp",
+  "s4": "umman1.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb0f2d9dc37b044c787da7"
+  },
+  "title": "KING'S GREENGROCER",
+  "client": "King's Greengrocer",
+  "location": "Kingsland, London",
+  "surface": 35,
+  "website": "...",
+  "sector": "Commercial",
+  "work": "Interior Design - Project Management",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161028894117506.jpg",
+  "__v": 0,
+  "s1": "fresh2.jpg",
+  "s2": "fresh3.jpg",
+  "s3": "fresh4.jpg",
+  "s4": "fresh5.jpg"
+},{
+  "_id": {
+    "$oid": "5ff99378d150c705c60cb7fe"
+  },
+  "title": "GINGER & MINT EAST VILLAGE",
+  "client": "Ginger & Mint E. Village",
+  "location": "Stratford, London",
+  "surface": 85,
+  "website": "gingerandmint.co.uk/",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design - Construction",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610191736268ginger1.jpg",
+  "__v": 0,
+  "s1": "ginger2.jpg",
+  "s2": "ginger3.jpg",
+  "s3": "ginger4.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb0c9b9dc37b044c787da5"
+  },
+  "title": "RUDY'S DIRTY VEGAN CAMDEN TOWN",
+  "client": "Rudy's Dirty Vegan Ltd",
+  "location": "Camden Market",
+  "surface": 45,
+  "website": "rudysvegan.com",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design ",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161028828352501 (1).png",
+  "__v": 0,
+  "s1": "rudy2.png",
+  "s2": "rudy3.png",
+  "s3": "rudy4.png",
+  "s4": "rudy5.png"
+},{
+  "_id": {
+    "$oid": "5ff9a28640b79807a8f6444f"
+  },
+  "title": "DARTFORD BEST KEBAB",
+  "client": "Mahmut Bal",
+  "location": "Dartford, London",
+  "surface": 87,
+  "website": "...",
+  "sector": "Takeaway",
+  "work": "Interior Design ",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610195590708best4.jpg",
+  "__v": 0,
+  "s1": "best1.jpg",
+  "s2": "best2.jpg",
+  "s3": "best3.jpg",
+  "s4": "best5.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb19de4c09b80627277fdd"
+  },
+  "title": "OMAN MUSCAT HOUSE",
+  "client": "Ismail Al Jahdami",
+  "location": "Muscat , Oman",
+  "surface": 112,
+  "website": "...",
+  "sector": "Residantial-Home",
+  "work": "Interior Design ",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "161029167845902.jpg",
+  "__v": 0,
+  "s1": "muscat1.jpg",
+  "s2": "muscat3.jpg",
+  "s3": "muscat4.jpg",
+  "s4": "muscat5.jpeg"
+},{
+  "_id": {
+    "$oid": "5ffb1b144c09b80627277fde"
+  },
+  "title": "MAIDSTONE SUPERMARKET",
+  "client": "Supermarket",
+  "location": "Kent",
+  "surface": 250,
+  "website": "...",
+  "sector": "Commercial",
+  "work": "Interior 2D Design",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "1610291988386market3.png",
+  "__v": 0,
+  "s1": "market1.png",
+  "s2": "market2.png",
+  "s3": "market3.png"
+},{
+  "_id": {
+    "$oid": "5ffb07579dc37b044c787da1"
+  },
+  "title": "SULTANS KEBAB",
+  "client": "Sultan's Kebab",
+  "location": "Coventry",
+  "surface": 70,
+  "website": "sultankebabhouse.com/",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design ",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161028693561602.jpg",
+  "__v": 0,
+  "s1": "sultan1.jpg",
+  "s2": "sultan2.jpg"
+},{
+  "_id": {
+    "$oid": "5ff997b3d150c705c60cb7ff"
+  },
+  "title": "HAZE LOUNGE",
+  "client": "Relina Limited",
+  "location": "Chingford, London",
+  "surface": 130,
+  "website": "hazerestaurant.co.uk",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design - Construction",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610192819644haze4.jpg",
+  "__v": 0,
+  "s1": "haze1.jpg",
+  "s2": "haze2.webp",
+  "s3": "haze3.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb1bd54c09b80627277fdf"
+  },
+  "title": "ISLINGTON HOUSE",
+  "client": "Private Client",
+  "location": "Islington, London",
+  "surface": 110,
+  "website": "...",
+  "sector": "Residantial-Home",
+  "work": "Interior Design ",
+  "details": " We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161029218110003.jpg",
+  "__v": 0,
+  "s1": "room1.jpg",
+  "s2": "room2.jpg",
+  "s3": "room3.jpg",
+  "s4": "room4.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb09fc9dc37b044c787da3"
+  },
+  "title": "ROCK & ROLLA FISH AND CIPS",
+  "client": "Rock & Rolla Ltd",
+  "location": "Stratford, London",
+  "surface": 105,
+  "website": "rockandrolla.co.uk/",
+  "sector": "Takeaway",
+  "work": "Interior Design - Project Management",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610287612766rock5.png",
+  "__v": 0,
+  "s1": "rock2.png",
+  "s2": "rock3.png",
+  "s3": "rock4.png",
+  "s4": "rock5.png"
+},{
+  "_id": {
+    "$oid": "5ff9a81340b79807a8f64452"
+  },
+  "title": "N-1 BARBER",
+  "client": "N-1 Barber",
+  "location": "Stratford, London",
+  "surface": 30,
+  "website": "...",
+  "sector": "Commercial",
+  "work": "Interior Design - Project Management",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "1610197011142n1berber1.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb17179dc37b044c787daa"
+  },
+  "title": "THE RAILWAY BELL BAR",
+  "client": "The Railway Bell",
+  "location": "Gravesend, UK",
+  "surface": 65,
+  "website": "...",
+  "sector": "Bar",
+  "work": "Interior Design ",
+  "details": "This is an interior design planning project.",
+  "imagename": "161029096721303.jpg",
+  "__v": 0,
+  "s1": "bar1.jpg",
+  "s2": "bar2.jpg",
+  "s3": "bar4.jpg",
+  "s4": "bar5.jpg"
+},{
+  "_id": {
+    "$oid": "5ff9ad4f40b79807a8f64455"
+  },
+  "title": "VICTORIA PUB",
+  "client": "Victoria Pub",
+  "location": "Deptfort, London",
+  "surface": 287,
+  "website": "...",
+  "sector": "Bar",
+  "work": "Interior Design - Construction",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161019835147803 (1).jpg",
+  "__v": 0,
+  "s1": "victoria2.jpg",
+  "s2": "victoria3.jpg",
+  "s3": "victoria4.jpg",
+  "s4": "victoria5.jpg"
+},{
+  "_id": {
+    "$oid": "5ff9a37740b79807a8f64450"
+  },
+  "title": "Z - D BARBER",
+  "client": "Z - D Barber",
+  "location": "Stratford, London",
+  "surface": 75,
+  "website": "...",
+  "sector": "Commercial",
+  "work": "Interior Design ",
+  "details": "Our construction experience in London includes adding storeys to Victorian blocks of flats in conservation areas, new builds for private homes, basements in listed buildings and more.",
+  "imagename": "1610195831368zdberber2.jpg",
+  "__v": 0,
+  "s1": "zdberber1.jpg",
+  "s2": "zdberber2.jpg",
+  "s3": "zdberber3.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb0af69dc37b044c787da4"
+  },
+  "title": "THE VINTAGE FISH",
+  "client": "The Vintage Fish",
+  "location": "Stratford, London",
+  "surface": 26,
+  "website": "vintagefish.co.uk",
+  "sector": "Takeaway",
+  "work": "Interior Design -  Project Management",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161028786218301 (1).jpg",
+  "__v": 0,
+  "s1": "vintage2.jpg",
+  "s2": "vintage3.jpg",
+  "s3": "vintage4.jpg",
+  "s4": "vintage5.jpg"
+},{
+  "_id": {
+    "$oid": "5ff9a4dd40b79807a8f64451"
+  },
+  "title": "SISH GRILL",
+  "client": "Letchworth Sish Grill",
+  "location": "Letchworth, London",
+  "surface": 68,
+  "website": "...",
+  "sector": "Takeaway",
+  "work": "Interior Design ",
+  "details": "We create, make and test ideas in our London studio, solving problems with our in-house human centred design expertise and in partnership with our network of specialists.",
+  "imagename": "1610196189253sisgrill2.jpg",
+  "__v": 0,
+  "s1": "sisgrill1.jpg",
+  "s2": "sisgrill3.jpg",
+  "s3": "sisgrill4.jpg",
+  "s4": "sisgrill5.jpg"
+},{
+  "_id": {
+    "$oid": "5ff9ab9440b79807a8f64454"
+  },
+  "title": "KU-ZU",
+  "client": "KU-ZU Wimbeldon",
+  "location": "Wimbeldon, London",
+  "surface": 60,
+  "website": "...",
+  "sector": "Takeaway",
+  "work": "Interior Design ",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "161019790815804 (1).png",
+  "__v": 0,
+  "s1": "kuzu2.png",
+  "s2": "kuzu3.png",
+  "s3": "kuzu4.png",
+  "s4": "kuzu5.png"
+},{
+  "_id": {
+    "$oid": "5ff9af1640b79807a8f64456"
+  },
+  "title": "SONARGOAN RESTAURANT",
+  "client": "Sonargoan Restaurant",
+  "location": "White Chapel, London",
+  "surface": 115,
+  "website": "...",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design",
+  "details": "Akart Ltd. is an well-established interior architecture practice working with brands, businesses and private clients who share their passion for detail, craft and refinement.",
+  "imagename": "161019880621701 (1).jpg",
+  "__v": 0,
+  "s1": "sonar1.jpg",
+  "s2": "sonar2.jpg",
+  "s3": "sonar3.jpg",
+  "s4": "sonar4.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb102f9dc37b044c787da8"
+  },
+  "title": "KEBAB ADDICTION",
+  "client": "Kebab Addiction",
+  "location": "Stratford, London",
+  "surface": 22,
+  "website": "...",
+  "sector": "Takeaway",
+  "work": "Interior Design - Project Management",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610289199400Interior_03 (1).jpg",
+  "__v": 0,
+  "s1": "kebap1.jpg",
+  "s2": "kebap2.jpg",
+  "s3": "kebap4.jpg",
+  "s4": "kebap5.jpg"
+},{
+  "_id": {
+    "$oid": "5ffb1de64c09b80627277fe0"
+  },
+  "title": "CHINGFORD HOUSE",
+  "client": "Relina Limited",
+  "location": "Stratford, London",
+  "surface": 65,
+  "website": "...",
+  "sector": "Residantial-Home",
+  "work": "Interior Design - Construction",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "1610292710867chingford2.png",
+  "__v": 0,
+  "s1": "chingford1.jpeg",
+  "s2": "chingford2.png"
+},{
+  "_id": {
+    "$oid": "5ffb18f64c09b80627277fdc"
+  },
+  "title": "GUNAYS CAFÉ",
+  "client": "Gunay's Café",
+  "location": "Dagenham, London",
+  "surface": 65,
+  "website": "...",
+  "sector": "Coffee-Restaurant",
+  "work": "Interior Design ",
+  "details": "Our project management services cover the whole project, from inception to completion. We treat each project as unique and we maintain momentum, which we see as two of the keys to project success.",
+  "imagename": "161029144632102.jpg",
+  "__v": 0,
+  "s1": "gunay2.jpg",
+  "s2": "gunay3.jpg",
+  "s3": "gunay4.jpg",
+  "s4": "gunay5.jpg"
+}]
